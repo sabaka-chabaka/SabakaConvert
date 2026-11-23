@@ -20,6 +20,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="Aspose.Words" Version="26.11.0" />
         <PackageReference Include="FFMpegCore" Version="6.0.0" />
         <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="11.0.0" />
         <PackageReference Include="SixLabors.ImageSharp" Version="4.1.3" />
